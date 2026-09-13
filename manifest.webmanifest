@@ -1,0 +1,10 @@
+{
+  "name":"Hearthmere — Ashenvale Crossing",
+  "short_name":"Hearthmere",
+  "start_url":"./",
+  "display":"fullscreen",
+  "orientation":"landscape",
+  "background_color":"#07100f",
+  "theme_color":"#07100f",
+  "icons":[]
+}

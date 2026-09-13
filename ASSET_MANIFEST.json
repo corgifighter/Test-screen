@@ -1,0 +1,62 @@
+{
+  "version": "v22",
+  "assets": [
+    "barrel",
+    "bench",
+    "bridge",
+    "cart",
+    "chapel",
+    "character",
+    "crate",
+    "fence",
+    "forge",
+    "grass_clump",
+    "house",
+    "inn",
+    "lantern",
+    "mill",
+    "rock",
+    "shrub",
+    "sign",
+    "tree",
+    "tree_oak",
+    "tree_pine",
+    "watchtower",
+    "well",
+    "cottage_A",
+    "cottage_B",
+    "cottage_C"
+  ],
+  "production_notes": "Focused environment-asset pass: residential quarter now uses three distinct GLB cottage archetypes with varied silhouettes, rooflines, timber framing, windows, doors, porches/awnings, chimneys and lived-in dressing.",
+  "hero": "hero.glb",
+  "chimney_detail": {
+    "file": "chimney_detail.glb",
+    "category": "architecture-detail",
+    "role": "cottage facade detailing"
+  },
+  "door_detail": {
+    "file": "door_detail.glb",
+    "category": "architecture-detail",
+    "role": "cottage facade detailing"
+  },
+  "window_detail": {
+    "file": "window_detail.glb",
+    "category": "architecture-detail",
+    "role": "cottage facade detailing"
+  },
+  "roof_ridge_detail": {
+    "file": "roof_ridge_detail.glb",
+    "category": "architecture-detail",
+    "role": "cottage facade detailing"
+  },
+  "timber_brace_detail": {
+    "file": "timber_brace_detail.glb",
+    "category": "architecture-detail",
+    "role": "cottage facade detailing"
+  },
+  "roof_eave_trim_detail": {
+    "source": "Hearthmere authored architectural detail",
+    "license": "Original",
+    "role": "roof eave fascia, rafter tails and gutter rail"
+  }
+}
